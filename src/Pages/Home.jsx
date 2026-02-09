@@ -17,7 +17,7 @@ import ProjectCard from '../Components/Card';
 import Svg1 from '../Components/Svg1';
 import Svg2 from '../Components/Svg2';
 import Svg3 from '../Components/Svg3';
-import Resume from '../Resume/Atanu-karmakar-Resume.pdf'
+import Resume from '../Resume/Frontend_Resume.pdf'
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 
@@ -94,7 +94,7 @@ const Home = () => {
                             <Heading fontSize="3.3em"   data-text="Vaishnavi Agrahari"  > <span className='themeText'>Vaishnavi Agrahari</span></Heading>
                         </Box>
                         <Text>Am a 3rd Year B.Tech Computer Science Student, passionate about building Web applications.</Text>
-                        <HStack className='hireMe' onClick={() => { window.open("https://drive.google.com/file/d/1CmsA0aaqKU53B-nqOzz-9WEJrY_n3JI2/view?usp=sharing", '_blank') }}>
+                        <HStack className='hireMe' onClick={() => { window.open("https://drive.google.com/file/d/1NdrgbOn8o2sxZJobewKN3G50AlZlBBLT/view?usp=sharing", '_blank') }}>
                             <a href={Resume} download="Vaishnavi-Resume">
                                 <Button>Resume <LuCloudDownload /></Button>
                             </a>
