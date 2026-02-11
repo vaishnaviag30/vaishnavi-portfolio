@@ -94,7 +94,7 @@ const Home = () => {
                             <Heading fontSize="3.3em"   data-text="Vaishnavi Agrahari"  > <span className='themeText'>Vaishnavi Agrahari</span></Heading>
                         </Box>
                         <Text>Am a 3rd Year B.Tech Computer Science Student, passionate about building Web applications.</Text>
-                        <HStack className='hireMe' onClick={() => { window.open("https://drive.google.com/file/d/1NdrgbOn8o2sxZJobewKN3G50AlZlBBLT/view?usp=sharing", '_blank') }}>
+                        <HStack className='hireMe' onClick={() => { window.open("https://drive.google.com/file/d/1-wJvEsZiwiEcKZMwemybovTMvlWm55Ux/view?usp=sharing", '_blank') }}>
                             <a href={Resume} download="Vaishnavi-Resume">
                                 <Button>Resume <LuCloudDownload /></Button>
                             </a>
