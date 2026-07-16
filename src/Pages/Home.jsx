@@ -93,7 +93,7 @@ const Home = () => {
                         <Box className='content'>
                             <Heading fontSize="3.3em"   data-text="Vaishnavi Agrahari"  > <span className='themeText'>Vaishnavi Agrahari</span></Heading>
                         </Box>
-                        <Text>Am a 3rd Year B.Tech Computer Science Student, passionate about building Web applications.</Text>
+                        <Text>Am a Final Year B.Tech Computer Science Student, passionate about building Web applications.</Text>
                         <HStack className='hireMe' onClick={() => { window.open("https://drive.google.com/file/d/1-wJvEsZiwiEcKZMwemybovTMvlWm55Ux/view?usp=sharing", '_blank') }}>
                             <a href={Resume} download="Vaishnavi-Resume">
                                 <Button>Resume <LuCloudDownload /></Button>
@@ -127,7 +127,7 @@ const Home = () => {
                         </Flex>
 
                         <Box>
-                            <Text>An ambitious and self-motivated B.Tech (3rd Year) <b>Computer Science</b>  student with strong foundations in <b> Web development </b> and <b> Problem-Solving. </b> Experienced in building responsive and user-friendly web applications with a focus on usability, accessibility, and performance. A quick learner with the ability to grasp new technologies efficiently and work independently with minimal supervision. Demonstrated analytical skills through solving <b> 250+ Data Structures and Algorithms (DSA) problems</b>, showcasing strong logical thinking and consistency in coding.</Text>
+                            <Text>An ambitious and self-motivated B.Tech (Final Year) <b>Computer Science</b>  student with strong foundations in <b> Web development </b> and <b> Problem-Solving. </b> Experienced in building responsive and user-friendly web applications with a focus on usability, accessibility, and performance. A quick learner with the ability to grasp new technologies efficiently and work independently with minimal supervision. Demonstrated analytical skills through solving <b> 250+ Data Structures and Algorithms (DSA) problems</b>, showcasing strong logical thinking and consistency in coding.</Text>
                         </Box>
                     </Flex>
                 </Flex>
